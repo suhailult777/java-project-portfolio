@@ -16,7 +16,8 @@ The Employee Management System is a Java-based application for managing employee
 - Java
 - Swing (for GUI)
 - JDBC (Java Database Connectivity)
-- NetBeans IDE (or mention your preferred IDE)
+- Visual Studio Code IDE (or mention your preferred IDE)
+- Mysql workbench
 
 -----------------------------------------------------------------------------
 ## note
