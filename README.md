@@ -20,7 +20,7 @@ The Employee Management System is a Java-based application for managing employee
 - Mysql workbench
 
 -----------------------------------------------------------------------------
-## note
+## Note:
 ## before executing this project:
 - add all the JAR file eg: mysqlconnecter, rs2xml and jcalender to liberaries
 -  --------------------------------------------------------------------------
