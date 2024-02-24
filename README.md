@@ -30,3 +30,9 @@ The Employee Management System is a Java-based application for managing employee
 1. Clone the repository:
    ```bash
    git clone https://github.com/suhailult777/employee-management-system.git
+
+
+## executable file
+
+   - I have created an execuable jar file for easier use
+   - filename:EmployeeManagementSystem.exe 
